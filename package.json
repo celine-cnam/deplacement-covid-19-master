@@ -55,7 +55,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "bootstrap": "^4.4.1",
     "pdf-lib": "^1.4.1",
-    "qrcode": "^1.4.4"
+    "qrcode": "^1.5.4"
   },
   "browserslist": [
     "last 5 versions"
